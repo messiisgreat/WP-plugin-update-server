@@ -1,0 +1,10 @@
+{
+    "name" : "Landing Page Builder",
+    "slug" : "Landing-Page-Builder",
+    "download_url" : "https://example.com/plugins/my-cool-plugin.zip",
+    "version" : "2.0",
+    "author" : "Felix Wirtz",
+    "sections" : {
+        "description" : "Plugin description here. Basic HTML allowed."
+    }
+}
